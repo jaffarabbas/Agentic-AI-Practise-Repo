@@ -12,3 +12,4 @@ typesense
 langchain_openai
 langgraph
 dotenv
+torchvision
